@@ -9,7 +9,7 @@ from tensorflow import keras
 # Importing the training set
 dataset_train = pd.read_csv(r'D:\Recurrent_Neural_Networks\Google_Stock_Price_Train.csv')
 
-#Selecting onlythe first column for training 
+#Selecting only the first column for training 
 training_set = dataset_train.iloc[:, 1:2].values
 
 # Feature Scaling
