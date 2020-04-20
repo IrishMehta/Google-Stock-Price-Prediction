@@ -13,5 +13,8 @@ The data has been hosted on
 
 https://www.superdatascience.com/pages/deep-learning
 
-The training set includes around 2 years of data of google's stock prices and the algorithm aims to figure out a trend
+The training set includes around 5 years of data of google's stock prices and the algorithm aims to figure out a trend
 of the same. The test set consists of data of stock prices from another year.
+
+## Solution:
+The notebook GSP-RNN consists of step by step approach to the problem.
